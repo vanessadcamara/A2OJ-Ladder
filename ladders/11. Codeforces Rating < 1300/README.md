@@ -30,7 +30,7 @@
 |<ul><li>- [ ] Done</li></ul>|23|[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|24|[Amusing Joke](http://codeforces.com/problemset/problem/141/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|25|[Soft Drinking](http://codeforces.com/problemset/problem/151/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|26|[HQ9+](http://codeforces.com/problemset/problem/133/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|26|[HQ9+](http://codeforces.com/problemset/problem/133/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|27|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|28|[Team](http://codeforces.com/problemset/problem/231/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|29|[Bit++](http://codeforces.com/problemset/problem/282/A)|Codeforces|1|
