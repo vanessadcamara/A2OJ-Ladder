@@ -50,11 +50,11 @@
 |<ul><li>- [x] Done</li></ul>|43|[Translation](http://codeforces.com/problemset/problem/41/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|44|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|45|[Bicycle Chain](http://codeforces.com/problemset/problem/215/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|46|[Sale](http://codeforces.com/problemset/problem/34/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|47|[System of Equations](http://codeforces.com/problemset/problem/214/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|48|[Business trip](http://codeforces.com/problemset/problem/149/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|49|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|50|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|46|[Sale](http://codeforces.com/problemset/problem/34/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|47|[System of Equations](http://codeforces.com/problemset/problem/214/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|48|[Business trip](http://codeforces.com/problemset/problem/149/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|49|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|50|[k-String](http://codeforces.com/problemset/problem/219/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|51|[The number of positions](http://codeforces.com/problemset/problem/124/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|52|[Football](http://codeforces.com/problemset/problem/96/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|53|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
