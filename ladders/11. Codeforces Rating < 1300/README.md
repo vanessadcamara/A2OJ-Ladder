@@ -59,11 +59,11 @@
 |<ul><li>- [x] Done</li></ul>|52|[Football](http://codeforces.com/problemset/problem/96/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|53|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|54|[Little Elephant and Function](http://codeforces.com/problemset/problem/221/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|55|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|56|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|57|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|58|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|59|[Airport](http://codeforces.com/problemset/problem/218/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|55|[Present from Lena](http://codeforces.com/problemset/problem/118/B)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|56|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|57|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|58|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
+|<ul><li>- [x] Done</li></ul>|59|[Airport](http://codeforces.com/problemset/problem/218/B)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|60|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|61|[Pashmak and Flowers](http://codeforces.com/problemset/problem/459/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|62|[Jeff and Periods](http://codeforces.com/problemset/problem/352/B)|Codeforces|3|
