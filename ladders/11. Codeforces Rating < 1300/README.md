@@ -86,14 +86,14 @@
 |<ul><li>- [x] Done</li></ul>|79|[Unlucky Ticket](http://codeforces.com/problemset/problem/160/B)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|80|[Boys and Girls](http://codeforces.com/problemset/problem/253/A)|Codeforces|3|
 |<ul><li>- [x] Done</li></ul>|81|[Easy Number Challenge](http://codeforces.com/problemset/problem/236/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|82|[Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|83|[Cards with Numbers](http://codeforces.com/problemset/problem/254/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|84|[Domino](http://codeforces.com/problemset/problem/353/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|85|[Cinema Line](http://codeforces.com/problemset/problem/349/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|86|[Rank List](http://codeforces.com/problemset/problem/166/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|87|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|88|[IQ Test](http://codeforces.com/problemset/problem/287/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|89|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|82|[Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|83|[Cards with Numbers](http://codeforces.com/problemset/problem/254/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|84|[Domino](http://codeforces.com/problemset/problem/353/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|85|[Cinema Line](http://codeforces.com/problemset/problem/349/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|86|[Rank List](http://codeforces.com/problemset/problem/166/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|87|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|88|[IQ Test](http://codeforces.com/problemset/problem/287/A)|Codeforces|3|
+|<ul><li>- [x] Done</li></ul>|89|[Building Permutation](http://codeforces.com/problemset/problem/285/C)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|90|[Kuriyama Mirai's Stones](http://codeforces.com/problemset/problem/433/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|91|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|92|[Sereja and Suffixes](http://codeforces.com/problemset/problem/368/B)|Codeforces|3|
