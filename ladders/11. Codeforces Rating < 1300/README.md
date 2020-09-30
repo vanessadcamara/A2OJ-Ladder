@@ -7,7 +7,7 @@
 |---|:---:|:---:|---|---|
 |<ul><li>- [x] Done</li></ul>|1|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|2|[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|Codeforces|1|
-|<ul><li>- [] Done</li></ul>|3|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|3|[Queue at the School](http://codeforces.com/problemset/problem/266/B)|Codeforces|1|
 |<ul><li>- [] Done</li></ul>|4|[Borze](http://codeforces.com/problemset/problem/32/B)|Codeforces|1|
 |<ul><li>- [] Done</li></ul>|5|[Beautiful Year](http://codeforces.com/problemset/problem/271/A)|Codeforces|1|
 |<ul><li>- [] Done</li></ul>|6|[Lights Out](http://codeforces.com/problemset/problem/275/A)|Codeforces|1|
