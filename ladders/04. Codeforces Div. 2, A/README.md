@@ -5,8 +5,8 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [ ] Done</li></ul>|1|[Watermelon](http://codeforces.com/problemset/problem/4/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|2|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|1|[Watermelon](http://codeforces.com/problemset/problem/4/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|2|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|3|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|4|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|5|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
