@@ -9,7 +9,7 @@
 |<ul><li>- [x] Done</li></ul>|2|[Way Too Long Words](http://codeforces.com/problemset/problem/71/A)|Codeforces|1|
 |<ul><li>- [x] Done</li></ul>|3|[String Task](http://codeforces.com/problemset/problem/118/A)|Codeforces|2|
 |<ul><li>- [x] Done</li></ul>|4|[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|5|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
+|<ul><li>- [x] Done</li></ul>|5|[Helpful Maths](http://codeforces.com/problemset/problem/339/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|6|[Twins](http://codeforces.com/problemset/problem/160/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|7|[Chat room](http://codeforces.com/problemset/problem/58/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|8|[Lucky Division](http://codeforces.com/problemset/problem/122/A)|Codeforces|2|
